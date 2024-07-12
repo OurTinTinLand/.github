@@ -9,6 +9,33 @@ A dev community that empowers the next generation of developers. We are committe
 - Developer Resource Library of Major Public Chain
 - Web3 Industry Job Boards
 
+
+🌟 Want to stand out in the Web3 world? Don't miss this #TinTinLand deep dive, your first step to Web3 success!
+
+📢 Web3er Special: A Comprehensive Overview and Guide to Utilizing TinTinLand Community Resources
+
+📩 Guest：@TracySalanderBC | TinTinLand Community Manager
+
+🌟 Content highlights:
+
+🔹How to get started with Web3?
+
+- Developer
+- Marketing & Operations
+
+🔹What do you get in the TinTinLand community?
+
+- Community Resources
+- Community User Guide
+
+🔹TinTinLand Community Points System
+
+- Community Growth System
+- Annual Awards
+
+📺 Don't miss out! Watch now:  https://youtube.com/watch?v=qUBkKXz1mrg
+
+
 TinTinLand 是一个专注于 Web3 开发者社区的平台。我们致力于通过提供前沿的科技资讯、技术课程、研讨会、黑客松创业大赛及行业招聘，将社区成员紧密联系在一起，共同构建未来的 Web3 生态系统。
 
 **TinTinLand 能提供什么资源？**
