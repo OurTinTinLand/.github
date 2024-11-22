@@ -46,11 +46,11 @@ TinTinLand 是一个专注于 Web3 开发者社区的平台。我们致力于通
 
 ---
 
-🔗Twitter: https://twitter.com/OurTinTinLand
+🔗Twitter EN: https://twitter.com/OurTinTinLand
 
 🔗Twitter CN: https://twitter.com/TinTinLand_ZH
 
-🔗Discord: https://discord.com/invite/kmPnTDSFu8
+🔗TeleGram: https://t.me/TinTinLand/6097
 
 🔗YouTube: https://www.youtube.com/channel/UCfHiMcFt-4btbC75FsReQhQ
 
